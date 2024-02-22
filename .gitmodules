@@ -5,4 +5,4 @@
 [submodule "LSTbook"]
 	path = LSTbook
 	url = https://github.com/dtkaplan/LSTbook
-	branch = *release
+	branch = CRANv0.5.0
