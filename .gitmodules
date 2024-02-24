@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "LSTbook"]
+	path = LSTbook
+	url = https://github.com/dtkaplan/lstbook
 [submodule "mosaicModel"]
 	path = mosaicModel
 	url = https://github.com/cran/mosaicModel
