@@ -1,0 +1,10 @@
+{
+  "id": 58018009,
+  "created_at": "2024-12-05T16:04:03.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["LSTbook"]
+}
