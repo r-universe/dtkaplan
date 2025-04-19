@@ -5,3 +5,6 @@
 [submodule "LSTbook"]
 	path = LSTbook
 	url = https://github.com/dtkaplan/LSTbook
+[submodule "mosaicCalc"]
+	path = mosaicCalc
+	url = https://github.com/ProjectMOSAIC/mosaicCalc
